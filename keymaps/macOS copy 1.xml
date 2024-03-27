@@ -1,0 +1,25 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Debugger.ReloadFile">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
+  <action id="Vcs.UpdateProject" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
